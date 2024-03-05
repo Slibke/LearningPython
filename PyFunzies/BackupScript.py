@@ -1,4 +1,3 @@
-
 import shutil
 
 source_folder = '/path/to/source_folder'
